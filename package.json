@@ -5,10 +5,13 @@
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
-  "files": [ "dist", "README.md" ],
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "repository": {
-      "type": "git",
-      "url": "git+https://github.com/jawblia/npm-test.git"
+    "type": "git",
+    "url": "git+https://github.com/Naveen-2504/package.git"
   },
   "devDependencies": {
     "@babel/cli": "^7.18.10",
